@@ -1,4 +1,4 @@
-package com.davis.ndktest;
+package com.davis.gittotest;
 
 import org.junit.Test;
 

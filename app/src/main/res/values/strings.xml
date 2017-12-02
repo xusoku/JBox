@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ndkTest</string>
+    <string name="app_name">GitToTest</string>
+    <string name="action_settings">Settings</string>
 </resources>

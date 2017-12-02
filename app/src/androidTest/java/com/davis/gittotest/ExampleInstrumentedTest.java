@@ -1,4 +1,4 @@
-package com.davis.ndktest;
+package com.davis.gittotest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.davis.ndktest", appContext.getPackageName());
+        assertEquals("com.davis.gittotest", appContext.getPackageName());
     }
 }
